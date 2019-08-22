@@ -10,3 +10,4 @@ What I learned:
 double area = radius * radius * PI;
 ui->areaLable_2->setText(QString::number(area)); 
 ````
+
